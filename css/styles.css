@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+
+    width: 800px;
+
+}
+
+h1{
+    padding: 10px;
+    font: bold 30px Tahoma;
+}
+
+li{
+
+    font: 20px Tahoma;
+    padding:10px;
+}
+
+#our-list{border-bottom: 1px solid #000}
+
+
+li:hover{
+    transition: transform 0.25s;
+    background-color: beige;
+}﻿
+ hr {
+     border: 1px solid #f1f1f1;
+     margin-bottom: 25px;
+ }
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+button:hover {
+    opacity:1;
+}
+
+
+
+
+
+
+
